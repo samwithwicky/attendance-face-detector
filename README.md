@@ -71,14 +71,12 @@ streamlit run dashboard.py
 ## 📁 Project Structure
 
 ```
-.
-├── assets/
-│   └── linear.png
+attendance-face-detector
 ├── known_faces/
-│   └── sam.jpg
-├── attendance_summary.csv
+│   └── sam.jpg(example)
+├── attendance_summary.csv(post program run)
 ├── dashboard.py
 ├── environment.yml
 ├── face_track.py
-└── requirements.txt
+└── README.md
 ```
