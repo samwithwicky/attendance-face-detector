@@ -11,7 +11,6 @@ from scipy.spatial import distance as dist
 # Setup
 known_faces_dir = "known_faces"
 os.makedirs(known_faces_dir, exist_ok=True)
-os.makedirs("logs", exist_ok=True)
 
 known_encodings = []
 known_names = []
