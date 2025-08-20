@@ -1,4 +1,4 @@
-# Student Focus Tracker & Classroom Summary
+# Student Attendance Tracker & Classroom Summary
 
 A real-time face and focus tracking system built with Python, OpenCV, and Mediapipe. This project uses facial landmarks to estimate a student's focus level and generates a summary report. A Streamlit dashboard is also included for easy visualization of the results.
 
